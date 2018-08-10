@@ -8,6 +8,7 @@ const MyButton = (props) => {
       href={props.link}
       variant="contained"
       size= "small"
+      target="_blank"
       style={{
         background: props.bck,
         color: props.color

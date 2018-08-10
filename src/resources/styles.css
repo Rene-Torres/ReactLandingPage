@@ -93,15 +93,16 @@ footer .footer_copyright {
     height: 160px;
     -webkit-transform: translate(-50%, -50%);  
     transform: translate(-50%, -50%);   
-    border: 2px solid white;
+    border: 2px solid #F44336;
 }
 
 .artist_name .wrapper {
-    border: 2px solid white;
+    border: 2px solid #F44336;
     height: 121px;
     margin: 6px;
+    font-weight: 800;
     text-align: center;
-    color: #fff;
+    color: #F44336;
     font-size: 40px;
     padding: 21px 70px 0px 70px;
     text-transform: uppercase;
@@ -358,3 +359,8 @@ footer .footer_copyright {
     padding: 15px 20px;
     text-align: center;
 }
+
+.carrousel_image{
+    opacity: 0.9;
+    }
+    
