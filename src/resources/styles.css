@@ -342,6 +342,10 @@ footer .footer_copyright {
 
 .location_wrapper {
     position:relative;
+    max-width: 1400px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .location_tag {

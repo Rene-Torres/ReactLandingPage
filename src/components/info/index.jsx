@@ -24,7 +24,7 @@ const Info = () => {
           </div>
           <div className="vn_title">Event Date and Time</div>
 
-          <div className="vn_desc">25 Dec 2018 @20:00 hrs</div>
+          <div className="vn_desc">25 Dec 2023 @20:00 hrs</div>
         </div>
       </div>
     </div>
