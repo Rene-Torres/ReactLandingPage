@@ -44,7 +44,7 @@ style={{
 >
 <Toolbar>
   <div className="header_logo">
-  <div className="font_righteous header_logo_venue">The venue</div>
+  <div className="font_righteous header_logo_venue">Ticket Monster</div>
   <div className="header_logo_title">Musical events</div>
   </div>
 <IconButton
